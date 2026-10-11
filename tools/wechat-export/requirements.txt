@@ -1,0 +1,3 @@
+cryptography>=41
+# 可选：解压 PC 版部分链接/文件消息的 CompressContent
+lz4>=4
